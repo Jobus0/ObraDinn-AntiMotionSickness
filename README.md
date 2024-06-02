@@ -18,7 +18,7 @@ I have played through the whole game with this mod.
 2. Extract the .zip's contents into your Obra Dinn directory.
 3. Create a new directory called Plugins inside the BepInEx directory.
 4. [Download](https://github.com/Jobus0/ObraDinnAntiMotionSickness/releases/latest) this mod and extract its contents into the Plugins directory.
-    - The final path should look like: `Obra Dinn\BepInEx\Plugins\AntiMotionSickness.dll`
+    - The final path should look like: `Obra Dinn\BepInEx\Plugins\ObraDinnAntiMotionSickness.dll`
 
 ## Config
 All the features of this mod can be individually toggled (or tweaked for FOV).
