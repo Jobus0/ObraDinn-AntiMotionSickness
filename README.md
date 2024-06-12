@@ -3,7 +3,7 @@
 A mod for Return of the Obra Dinn that disables motion sickness-inducing effects and allows modifying the FOV.
 
 ### Specifically:
-- Adds a FOV option which defaults to 70 (up from 58).
+- Increases the FOV from 58 to 70.
 - Disables the swaying of the ship.
 - Disables the fringe distortion post-process effect (wavy edges of the screen) during memories.
 - Disables the blurring of the edges of the screen.
