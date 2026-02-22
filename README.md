@@ -11,7 +11,7 @@ A mod for Return of the Obra Dinn that disables motion sickness-inducing effects
 
 With these changes, I went from feeling sick after just 15 minutes, to being able to play for 6 hours straight with no problem.
 
-I have played through the whole game with this mod.
+I have played through the whole game with this mod without encountering any bugs or progression blockers. It is also completely safe to install or remove at any time, as it does not modify your save data.
 
 ## Installation
 1. Download the latest release of [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2) (must use **x86** version).
